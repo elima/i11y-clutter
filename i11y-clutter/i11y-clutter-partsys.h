@@ -1,7 +1,7 @@
 /*
  * i11y-clutter-partsys.h
  *
- * I11yStuff - Library with useful stuff for interactivity projects
+ * i11y-clutter - Set of Cogl/Clutter modules for Interactivity related apps
  * Copyright (C) 2012 Igalia S.L.
  *
  * Authors:

@@ -1,7 +1,7 @@
 /*
- * i11ystuff.h
+ * i11y-clutter.h
  *
- * I11yStuff - Library with useful stuff for interactivity projects
+ * i11y-clutter - Set of Cogl/Clutter modules for Interactivity related apps
  * Copyright (C) 2012 Igalia S.L.
  *
  * Authors:
@@ -20,10 +20,10 @@
  * for more details.
  */
 
-#ifndef __I11YSTUFF_H__
-#define __I11YSTUFF_H__
+#ifndef __I11Y_CLUTTER_H__
+#define __I11Y_CLUTTER_H__
 
 #include <i11y-clutter-offscreen.h>
 #include <i11y-clutter-partsys.h>
 
-#endif /* __I11YSTUFF_H__ */
+#endif /* __I11Y_CLUTTER_H__ */
